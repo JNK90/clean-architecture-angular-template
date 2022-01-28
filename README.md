@@ -12,13 +12,7 @@ Also this project includes
 
 ## Possible Component-Frameworks:
 * [Angular Material](https://material.angular.io/)
-  * used in 
-    * Wessling Portal 
-    * OVsoftware HotDeskBooking
 * [NG-Zorro](https://ng.ant.design/docs/introduce/en)
-  * used in
-    * Egeplast Webkalkulator
-    * OVSoftware KVN-Prototyp
 * [PrimeNG](https://www.primefaces.org/primeng/#/)
 
 ## Possible Stores (State Management)
